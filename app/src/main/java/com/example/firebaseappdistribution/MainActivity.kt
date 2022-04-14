@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         //This is test for Firebase App Distribution
+        // commit from github
     }
 }
